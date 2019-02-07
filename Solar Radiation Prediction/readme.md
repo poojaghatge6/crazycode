@@ -7,7 +7,7 @@ the most suitable atmospheric conditions to capture solar energy and to predict 
 Random forest regressor and XGBoost were found to be the most effective techniques in predicting the solar radiations leading to 98.9% accuracy.
 
 Practical Applications:
-1)Estimate battery life of a solar cell during a particular time of the year.
-2)Find perfect climatic conditions to capture solar energy.
+1) Estimate battery life of a solar cell during a particular time of the year.
+2) Find perfect climatic conditions to capture solar energy.
 
 References : https://www.kaggle.com/dronio/SolarEnergy
